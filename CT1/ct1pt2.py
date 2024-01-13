@@ -1,6 +1,6 @@
 ## Sean Bohuslavsky 
 ## CSC500 - Critical Thinking Assignment 1, Part 2
-## Python Prorgam to multiply and divide two numbers
+## Python Program to multiply and divide two numbers
 
 # Multiply two numbers and print result
 def mul(num1, num2):

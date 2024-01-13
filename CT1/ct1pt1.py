@@ -1,6 +1,6 @@
 ## Sean Bohuslavsky 
 ## CSC500 - Critical Thinking Assignment 1, Part 1
-## Python Prorgam to add and subtract two numbers
+## Python Program to add and subtract two numbers
 
 # Add two numbers and print result
 def add(num1, num2):
